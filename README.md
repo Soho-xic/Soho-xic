@@ -1,10 +1,10 @@
-HII, I'M SOHAM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m SOHAM SARKAR
+- 👀 I’m interested in upskilling myself and learning new technologies.
+- 🌱 Currently studying Btech in CSE
+- 📫 How to reach me - @sarkarsoham73@gmail.com 
+- 
 
 <!---
-Soho-xic/Soho-xic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOHAMxRICK/SOHAMxRICK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
